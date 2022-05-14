@@ -13,16 +13,15 @@
     <script src="https://unpkg.com/flowbite@1.4.5/dist/flowbite.js"></script>
   </head>
   <body
-    class="antialised bg-gradient-to-r from-pink-300 via-purple-300 to-indigo"
   >
     <!-- Header -->
-    <header>
+    <header >
       <!-- Navbar -->
       <nav
-        class="flex flex-wrap items-center justify-between w-full py-4 md-py-0 text-lg text-gray-700 bg-white"
+        class="flex flex-wrap items-center justify-between w-full py-2 md-py-0 text-lg text-gray-700 bg-white relative"
       >
         <!-- Logo -->
-        <div class="object-contain">
+        <div class="object-contain ">
           <img src="assets/logo fiickott.webp" alt="" class="h-20" />
         </div>
         <!-- Menu Items -->
@@ -32,19 +31,24 @@
           <a href="#" class="hover:text-purple">Resources</a>
         </div>
         <!-- Button -->
-        <a
+        <div class="flex flex-row space-x-2 mx-12">
+          <a
           href=""
-          class="hidden p-3 px-6 pt-2 text-white bg-purple-500 rounded-full baseline hover:bg-purple-100 md:block"
+          class="p-2 pt-2 text-white bg-purple-500 rounded baseline hover:bg-pink-500 md:block"
           >Request Demo</a
         >
         <a
           href=""
-          class="hidden p-3 px-6 pt-2 text-white bg-pink-500 rounded-full baseline hover:bg-purple-100 md:block"
+          class="p-2 pt-2 text-white bg-pink-500 rounded baseline hover:bg-purple-100 md:block"
           >Contact Sales</a
         >
+
+        </div>
+        
       </nav>
       <!-- Hero Section-->
-      <section id="hero">
+      <section id="hero" class="bg-no-repeat mx-w-sm object-contain " style="background-image: url(assets/banner-bg.png);">
+          <!-- Image -->
         <!-- flex container -->
         <div
           class="container flex flex-col-reverse items-center px-6 mx-auto mt-auto mt-10 space-y-0 md:flex-row"
@@ -52,35 +56,35 @@
           <div class="container flex flex-col mb-32 space-y-12 md:w-1/2">
             <!-- Left Items -->
             <h1
-              class="max-w-md text-4xl font-bold text-center md:text-5xl md:text-left bg-text-purple"
+              class="max-w-md m-2 text-4xl font-bold text-center md:text-5xl md:text-left text-purple-500"
             >
               Your Next Big <br />OTT Platform <br />
               Starts Here
             </h1>
-            <p class="max-w-sm text-center text-black-600 font-bold md:center">
+            <p class="max-w-sm text-left justify-center items-center text-black-600 font-bold md:center">
               Everything You Need To Manage, Stream & Monetize Video/Audio
               Content Across All Devices
             </p>
 
-            <div class="flex space-x-8 justify-center md:justify-start">
+            <div class="flex mx-1 space-x-8 justify-center items-center md:justify-start">
               <a
-                href="#"
-                class="p-3 px-6 pt-2 text-white bg-purple-500 rounded-full baseline hover:bg-pink-500 md:text-center"
-                >Request Demo</a
-              >
-              <a
-                href="#"
-                class="p-3 px-6 pt-2 text-white bg-pink-500 rounded-full baseline hover:bg-purple-500 md:"
-                >Contact Sales</a
-              >
+              href=""
+              class="p-2 pt-2 text-white bg-purple-500 rounded baseline hover:bg-pink-500 md:block"
+              >Request Demo</a
+            >
+            <a
+              href=""
+              class="p-2 pt-2 text-white bg-pink-500 rounded baseline hover:bg-purple-100 md:block"
+              >Contact Sales</a
+            >
             </div>
           </div>
-          <!-- Image -->
-          <div class="md:w-1/2">
+          <!-- background image -->
+          <!-- <div class="md:w-1/2">
             <img src="assets/heroImage.jpg" alt="" />
-          </div>
+          </div> -->
         </div>
-      </section>
+      </section >
       <!-- Brand Logos -->
       <div class="w-md h-md sm:object-cover">
         <img
@@ -92,9 +96,10 @@
     </header>
     <!-- section Head -->
     <div
-      class="flex flex-col items-center justify-center sm:items-center space-y-6"
+      class="flex flex-col items-center justify-center sm:items-center space-y-6 m-10
+      "
     >
-      <h2 class="text-3xl m-10 text-center font-bold">
+      <h2 class="text-3xl  text-center font-bold">
         Why Flickott Makes It Best For Streaming?
       </h2>
       <p class="text-xl text-center font-bold">
@@ -102,13 +107,13 @@
       </p>
     </div>
     <!-- features-->
-    <section id="features">
+    <section id="features class="bg-no-repeat mx-w-sm object-contain " style="background-image: url(assets/monetize-bg.svg);">
       <div
         class="grid grid-cols-3 items-center justify-evenly gap-4 mt-5 mx-auto scale-75 relative"
       >
         <!-- Image 1 -->
         <div
-          class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-75"
+          class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-75 ease-in-out duration-300"
         >
           <a
             class="absolute inset-0 z-10 bg-blue-500 text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -220,19 +225,21 @@
     </section>
     <!-- Explore Section -->
     <div
-      class="flex flex-col items-center justify-center sm:items-center space-y-6 mt-10"
+      class="flex flex-col items-center justify-center sm:items-center space-y-6 m-10 "
     >
       <h2 class="text-3xl text-center font-bold">
         Where all your streaming needs to come together
       </h2>
-      <p class="text-xl text-center font-bold">
+      <p class="text-xl text-center font-bold ">
         End-to-end streaming capabilities to broadcast high-quality videos over
         any platform
       </p>
     </div>
     <!-- The Image -->
     <div
-      class="container flex flex-col-reverse items-center px-6 mx-auto mt-auto mt-10 space-y-0 md:flex-row"
+      style="background-image: url('assets/edge-ott.webp');"
+      class="container flex flex-col-reverse items-center px-6 mx-auto mt-auto m-5 space-y-0 md:flex-row
+      h-full w-full bg-no-repeat bg-cover"
     >
       <div class="container flex flex-col mb-32 space-y-12 md:w-1/2">
         <!-- Left Items -->
@@ -242,7 +249,7 @@
           Leading - Edge OTT Streaming Experience
         </h1>
         <p
-          class="max-w-sm text-center font-bold text-black-600 font-bold md:center"
+          class="max-w-sm text-center font-bold text-black-600 font-bold md:center "
         >
           Give beautiful and compelling video & audio experiences to your
           Audience
@@ -266,9 +273,9 @@
         </div>
       </div>
       <!-- Image -->
-      <div class="md:w-1/2">
+      <!-- <div class="md:w-1/2">
         <img src="assets/Explore.webp" alt="" />
-      </div>
+      </div> -->
     </div>
     <!-- The Two Images -->
     <div class="flex flex-row space-evenly mx-10">
@@ -291,6 +298,7 @@
         strategies
       </p>
     </div>
+    
     <!--  -->
     <div
       class="flex flex-col items-center justify-center sm:items-center space-y-6 mt-10"
@@ -351,52 +359,52 @@
     </div>
     <!-- New Section -->
     <div
-      class="max-w w-full h-full bg-no-repeat" style="background-image: url(assets/ring.png);"> 
+      class="max-w w-full h-full bg-no-repeat object-contain" style="background-image: url(assets/ring.png);"> 
       <!-- logo of LifePlay -->
      <div class="grid grid-cols-5 ">
-      <div >
-        <img class="hover:shadow-lg" src="assets/lifeplay.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/lifeplay.svg" alt="">
       </div>
       <!-- Max play -->
-      <div >
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
         <img src="assets/maxplay.svg" alt="">
       </div>
       <!-- Skempi -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/skempi.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/skempi.svg" alt="">
       </div>
       <!-- POCN -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/pocn.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125" >
+        <img src="assets/pocn.svg" alt="">
       </div>
       <!-- HeroOriginals -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/heeroz.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/heeroz.svg" alt="">
       </div>
       <!-- FanNu -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/fan-vu.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/fan-vu.svg" alt="">
       </div>
       <!-- ADBC -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/ADCB.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/ADCB.svg" alt="">
       </div>
       <!-- Learning Space -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/learning-space.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/learning-space.svg" alt="">
       </div>
       <!-- University -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/university.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/university.svg" alt="">
       </div>
       <!-- Nuclean  -->
-      <div >
-        <img class="hover:shadow-lg" src="assets/nucleon-kota.svg" alt="">
+      <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
+        <img src="assets/nucleon-kota.svg" alt="">
       </div>
       <!-- kirupala -->
-      <!-- <div >
+      <div >
         <img class="hover:shadow-lg" src="assets/kirupala.svg" alt="">
-      </div> -->
+      </div>
      </div>
     </div>
     <!-- Images like carasoul -->
@@ -415,7 +423,7 @@
       class="grid grid-cols-4 items-center justify-evenly gap-4 mt-5 mx-auto scale-75 relative text-white"
     >
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100 "
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -544,40 +552,44 @@
       </div>
     </div>
     <!-- Two card for CTA  -->
-    <div class="flex flex-row-2 justify-center items-center gap-10 ">
-      <div class="rounded-lg shadow-lg bg-white max-w-sm">
-        <img src="assets/sales-team-1.png" class="h-10" alt="">
-        
-      <h2 class="text-3xl m-10 tracking-tight text-center font-bold">
-        Book Your Free Demo Today
-      </h2>
-      <p class="text-center font-medium">
-        See how Flickott works through a 1-to-1 demo with our product experts.
-      </p>
-        <a
-          href=""
-          class="p-3 px-6 pt-2 text-white bg-purple-500 rounded-full baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
-          >Request Demo</a
-        >
-      </div>
-        <!-- Button 2 -->
-
-      <div class="rounded-lg shadow-lg bg-white max-w-sm ">
-        <img src="assets/sales-team-2.png" class="h-10" alt="">
-        <h2 class="text-3xl m-10 text-center tracking-tight font-bold">
-          Let's Talk To Sales Team
+    <div class="container mx-auto">
+      <div class="flex flex-wrap gap-x-5 justify-center items-center m-10 shadow-lg p-4">
+        <!-- Button 1 
+          or card 1 -->
+        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white">
+          <img src="assets/sales-team-1.png" alt="">
+        <h2 class="text-2xl text-center tracking-tight font-bold">
+          Book Your Free Demo Today
         </h2>
         <p class="text-center font-medium">
-          We’d love to answer your questions. Tell us your needs, and we’ll contact you shortly.
+          See how Flickott works through a 1-to-1 demo with our product experts.
         </p>
-        <a
-          href=""
-          class="p-3 px-6 pt-2 text-white bg-pink-500 rounded-full baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
-          >Contact Sales</a
-        >
-      </div>
-
-    </div>    
+          <a
+            href=""
+            class="p-3 px-3 pt-2 text-white bg-purple-500 baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+            >Request Demo</a
+          >
+        </div>
+          <!-- Button 2 -->
+        <!-- Card 2 -->
+        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white">
+          <img src="assets/sales-team-2.png" alt="">
+          <h2 class="text-2xl  text-center tracking-tight font-bold">
+            Let's Talk To Sales Team
+          </h2>
+          <p class="text-center font-medium text-base">
+            We’d love to answer your questions. Tell us your needs, and we’ll contact you shortly.
+          </p>
+          <a
+            href=""
+            class="p-3 px-6 pt-2 text-white bg-pink-500 baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+            >Contact Sales</a
+          >
+        </div>
+  
+      </div>  
+    </div>
+  
     <!-- Footer -->
     <footer class="bg-slate-600">
       <!-- Flex Container -->
@@ -643,9 +655,7 @@
               class="flex-1 px-4 rounded-full focus:outline-none"
               placeholder="Updated in your inbox"
               />
-              <button class="px-6 py-2 text-white rounded-full bg-brightRed hover:bg-brightRed focus:outline-none">
-                Go
-              </button>
+              
             </div>
           </form>
           <div class="hidden text-white md:block">

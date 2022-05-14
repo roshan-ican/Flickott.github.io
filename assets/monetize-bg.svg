@@ -1,0 +1,329 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="981.133" viewBox="0 0 1920 981.133">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#003aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0072ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.646" y1="0.104" x2="0.238" y2="1.321" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c9ddfe"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.024" y1="0.5" x2="0.836" y2="0.272" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b2c3ff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_25698" data-name="Group 25698" transform="translate(0 -4083)">
+    <path id="Path_32197" data-name="Path 32197" d="M0,0H1920V981.133H0Z" transform="translate(0 4083)" opacity="0.12" fill="url(#linear-gradient)"/>
+    <g id="Project---Product-management" transform="translate(1 4099.816)" opacity="0.41">
+      <path id="Fill-1" d="M207.963,211.189C207.963,96.21,114.408,3-1,3V105.3c58.7,0,106.288,47.41,106.288,105.894S57.7,317.082-1,317.082v102.3c115.408,0,208.963-93.208,208.963-208.189" opacity="0.8" fill="url(#linear-gradient-2)"/>
+      <g id="shape-space-circle" transform="translate(5.223 26.218)" opacity="0.1">
+        <g id="shape-blue-circle" transform="translate(0 0)" opacity="0.423">
+          <ellipse id="Oval-Copy-326" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 221.792)"/>
+          <path id="Oval-Copy-325" d="M134.843,149.034a2.873,2.873,0,0,0,0-5.746q-1.574,0-2.853,2.873Q133.267,149.033,134.843,149.034Z" transform="translate(-84.053 78.504)"/>
+          <ellipse id="Oval-Copy-324" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 221.792)"/>
+          <ellipse id="Oval-Copy-323" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 221.792)"/>
+          <ellipse id="Oval-Copy-322" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 221.792)"/>
+          <ellipse id="Oval-Copy-311" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 205.703)"/>
+          <ellipse id="Oval-Copy-310" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 205.703)"/>
+          <ellipse id="Oval-Copy-309" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 205.703)"/>
+          <ellipse id="Oval-Copy-308" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 205.703)"/>
+          <ellipse id="Oval-Copy-307" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 205.703)"/>
+          <ellipse id="Oval-Copy-296" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 189.614)"/>
+          <ellipse id="Oval-Copy-295" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 189.614)"/>
+          <ellipse id="Oval-Copy-294" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 189.614)"/>
+          <ellipse id="Oval-Copy-293" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 189.614)"/>
+          <ellipse id="Oval-Copy-292" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 189.614)"/>
+          <ellipse id="Oval-Copy-281" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 174.676)"/>
+          <ellipse id="Oval-Copy-280" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 174.676)"/>
+          <ellipse id="Oval-Copy-279" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 174.676)"/>
+          <ellipse id="Oval-Copy-278" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 174.676)"/>
+          <ellipse id="Oval-Copy-277" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 174.676)"/>
+          <ellipse id="Oval-Copy-266" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 157.437)"/>
+          <ellipse id="Oval-Copy-265" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 157.437)"/>
+          <ellipse id="Oval-Copy-264" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 157.437)"/>
+          <ellipse id="Oval-Copy-263" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 157.437)"/>
+          <ellipse id="Oval-Copy-262" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 157.437)"/>
+          <ellipse id="Oval-Copy-251" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 142.498)"/>
+          <ellipse id="Oval-Copy-250" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 142.498)"/>
+          <ellipse id="Oval-Copy-249" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 142.498)"/>
+          <ellipse id="Oval-Copy-248" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 142.498)"/>
+          <ellipse id="Oval-Copy-247" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 142.498)"/>
+          <ellipse id="Oval-Copy-236" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 126.41)"/>
+          <ellipse id="Oval-Copy-235" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 126.41)"/>
+          <ellipse id="Oval-Copy-234" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 126.41)"/>
+          <ellipse id="Oval-Copy-233" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 126.41)"/>
+          <ellipse id="Oval-Copy-232" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 126.41)"/>
+          <ellipse id="Oval-Copy-221" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 111.47)"/>
+          <ellipse id="Oval-Copy-220" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 111.47)"/>
+          <ellipse id="Oval-Copy-219" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 111.47)"/>
+          <ellipse id="Oval-Copy-218" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 111.47)"/>
+          <ellipse id="Oval-Copy-217" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 111.47)"/>
+          <ellipse id="Oval-Copy-206" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 95.382)"/>
+          <ellipse id="Oval-Copy-205" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 95.382)"/>
+          <ellipse id="Oval-Copy-204" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 95.382)"/>
+          <ellipse id="Oval-Copy-203" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 95.382)"/>
+          <ellipse id="Oval-Copy-202" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 95.382)"/>
+          <ellipse id="Oval-Copy-191" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 79.293)"/>
+          <ellipse id="Oval-Copy-190" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 79.293)"/>
+          <ellipse id="Oval-Copy-189" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 79.293)"/>
+          <ellipse id="Oval-Copy-188" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 79.293)"/>
+          <ellipse id="Oval-Copy-187" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 79.293)"/>
+          <ellipse id="Oval-Copy-176" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 64.354)"/>
+          <ellipse id="Oval-Copy-175" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 64.354)"/>
+          <ellipse id="Oval-Copy-174" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 64.354)"/>
+          <ellipse id="Oval-Copy-173" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 64.354)"/>
+          <ellipse id="Oval-Copy-172" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 64.354)"/>
+          <ellipse id="Oval-Copy-161" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 47.116)"/>
+          <ellipse id="Oval-Copy-160" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 47.116)"/>
+          <ellipse id="Oval-Copy-159" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 47.116)"/>
+          <ellipse id="Oval-Copy-158" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 47.116)"/>
+          <ellipse id="Oval-Copy-157" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 47.116)"/>
+          <ellipse id="Oval-Copy-146" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 32.177)"/>
+          <ellipse id="Oval-Copy-145" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 32.177)"/>
+          <ellipse id="Oval-Copy-144" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 32.177)"/>
+          <ellipse id="Oval-Copy-143" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 32.177)"/>
+          <ellipse id="Oval-Copy-142" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 32.177)"/>
+          <ellipse id="Oval-Copy-131" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916 16.089)"/>
+          <ellipse id="Oval-Copy-130" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936 16.089)"/>
+          <ellipse id="Oval-Copy-129" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957 16.089)"/>
+          <ellipse id="Oval-Copy-128" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119 16.089)"/>
+          <ellipse id="Oval-Copy-127" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(0 16.089)"/>
+          <ellipse id="Oval-Copy-116" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(63.916)"/>
+          <ellipse id="Oval-Copy-115" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(47.936)"/>
+          <ellipse id="Oval-Copy-114" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(31.957)"/>
+          <ellipse id="Oval-Copy-113" cx="2.853" cy="2.873" rx="2.853" ry="2.873" transform="translate(17.119)"/>
+          <ellipse id="Oval-Copy-112" cx="2.853" cy="2.873" rx="2.853" ry="2.873"/>
+        </g>
+      </g>
+    </g>
+    <g id="testimonial-card" transform="matrix(0.259, -0.966, 0.966, 0.259, 1385.018, 4541.035)" opacity="0.36">
+      <g id="Group-51-Copy" transform="translate(370.412 369.412) rotate(180)">
+        <path id="shape-copy-3" d="M183.415,93.071a92.329,92.329,0,1,0,.006,0ZM184.2,0C82.471,0,0,82.47,0,184.2s82.471,184.21,184.206,184.21S368.412,285.938,368.412,184.2,285.941,0,184.208,0Z" transform="translate(0 0)" opacity="0.8" fill="url(#linear-gradient-3)"/>
+        <g id="Group-Copy-2" transform="translate(176.6 308.79) rotate(-90)" opacity="0.15">
+          <g id="Dots-Copy-5" transform="translate(0 0)">
+            <path id="Fill-1-2" data-name="Fill-1" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(0 0.429)"/>
+            <path id="Fill-3" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(15.419 0.429)"/>
+            <path id="Fill-5" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(30.839 0.429)"/>
+            <path id="Fill-7" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(47.165 0.429)"/>
+            <path id="Fill-9" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(62.585 0.429)"/>
+            <path id="Fill-11" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 0.429)"/>
+            <path id="Fill-13" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(93.424 0.429)"/>
+            <path id="Fill-15" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(0 15.832)"/>
+            <path id="Fill-17" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(15.419 15.832)"/>
+            <path id="Fill-19" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(30.839 15.832)"/>
+            <path id="Fill-21" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(47.165 15.832)"/>
+            <path id="Fill-23" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(62.585 15.832)"/>
+            <path id="Fill-25" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(78.004 15.832)"/>
+            <path id="Fill-27" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(93.424 15.832)"/>
+            <path id="Fill-29" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(0 31.236)"/>
+            <path id="Fill-31" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(15.419 31.236)"/>
+            <path id="Fill-33" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(30.839 31.236)"/>
+            <path id="Fill-35" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(47.165 31.236)"/>
+            <path id="Fill-37" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(62.585 31.236)"/>
+            <path id="Fill-39" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 31.236)"/>
+            <path id="Fill-41" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(93.424 31.236)"/>
+            <path id="Fill-43" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(0 47.545)"/>
+            <path id="Fill-45" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(15.419 47.545)"/>
+            <path id="Fill-47" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(30.839 47.545)"/>
+            <path id="Fill-49" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(47.165 47.545)"/>
+            <path id="Fill-51" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(62.585 47.545)"/>
+            <path id="Fill-53" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 47.545)"/>
+            <path id="Fill-55" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(93.424 47.545)"/>
+            <path id="Fill-57" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(0 62.949)"/>
+            <path id="Fill-59" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(15.419 62.949)"/>
+            <path id="Fill-61" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(30.839 62.949)"/>
+            <path id="Fill-63" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(47.165 62.949)"/>
+            <path id="Fill-65" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(62.585 62.949)"/>
+            <path id="Fill-67" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 62.949)"/>
+            <path id="Fill-69" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(93.424 62.949)"/>
+            <path id="Fill-71" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(0 78.352)"/>
+            <path id="Fill-73" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(15.419 78.352)"/>
+            <path id="Fill-75" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(30.839 78.352)"/>
+            <path id="Fill-77" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(47.165 78.352)"/>
+            <path id="Fill-79" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(62.585 78.352)"/>
+            <path id="Fill-81" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 78.352)"/>
+            <path id="Fill-83" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(93.424 78.352)"/>
+            <path id="Fill-85" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(0 93.756)"/>
+            <path id="Fill-87" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(15.419 93.756)"/>
+            <path id="Fill-89" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(30.839 93.756)"/>
+            <path id="Fill-91" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(47.165 93.756)"/>
+            <path id="Fill-93" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(62.585 93.756)"/>
+            <path id="Fill-95" d="M3.628,1.811A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(78.004 93.756)"/>
+            <path id="Fill-97" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(93.424 93.756)"/>
+            <path id="Fill-99" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(108.843 0.429)"/>
+            <path id="Fill-101" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(125.17 0.429)"/>
+            <path id="Fill-103" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(140.589 0.429)"/>
+            <path id="Fill-105" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(156.009 0.429)"/>
+            <path id="Fill-107" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 0.429)"/>
+            <g id="Group-111" transform="translate(186.981)">
+              <path id="Fill-109" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0)"/>
+            </g>
+            <path id="Fill-112" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(108.843 15.832)"/>
+            <path id="Fill-114" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(125.17 15.832)"/>
+            <path id="Fill-116" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(140.589 15.832)"/>
+            <path id="Fill-118" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(156.009 15.832)"/>
+            <path id="Fill-120" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(171.428 15.832)"/>
+            <g id="Group-124" transform="translate(186.981 15.489)">
+              <path id="Fill-122" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.961,1.961,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-125" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(108.843 31.236)"/>
+            <path id="Fill-127" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(125.17 31.236)"/>
+            <path id="Fill-129" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(140.589 31.236)"/>
+            <path id="Fill-131" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(156.009 31.236)"/>
+            <path id="Fill-133" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 31.236)"/>
+            <g id="Group-137" transform="translate(186.981 30.979)">
+              <path id="Fill-135" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-138" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(108.843 47.545)"/>
+            <path id="Fill-140" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(125.17 47.545)"/>
+            <path id="Fill-142" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(140.589 47.545)"/>
+            <path id="Fill-144" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(156.009 47.545)"/>
+            <path id="Fill-146" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 47.545)"/>
+            <g id="Group-150" transform="translate(186.981 47.376)">
+              <path id="Fill-148" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-151" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(108.843 62.949)"/>
+            <path id="Fill-153" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(125.17 62.949)"/>
+            <path id="Fill-155" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(140.589 62.949)"/>
+            <path id="Fill-157" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(156.009 62.949)"/>
+            <path id="Fill-159" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 62.949)"/>
+            <g id="Group-163" transform="translate(186.981 62.866)">
+              <path id="Fill-161" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-164" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(108.843 78.352)"/>
+            <path id="Fill-166" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(125.17 78.352)"/>
+            <path id="Fill-168" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(140.589 78.352)"/>
+            <path id="Fill-170" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.814,1.814,0,0,1,3.628,1.812" transform="translate(156.009 78.352)"/>
+            <path id="Fill-172" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 78.352)"/>
+            <g id="Group-176" transform="translate(186.981 78.356)">
+              <path id="Fill-174" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-177" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(108.843 93.756)"/>
+            <path id="Fill-179" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(125.17 93.756)"/>
+            <path id="Fill-181" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(140.589 93.756)"/>
+            <path id="Fill-183" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(156.009 93.756)"/>
+            <path id="Fill-185" d="M3.628,1.811A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.811" transform="translate(171.428 93.756)"/>
+            <g id="Group-189" transform="translate(186.981 93.846)">
+              <path id="Fill-187" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-190" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(0 109.159)"/>
+            <path id="Fill-192" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(15.419 109.159)"/>
+            <path id="Fill-194" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(30.839 109.159)"/>
+            <path id="Fill-196" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(47.165 109.159)"/>
+            <path id="Fill-198" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(62.585 109.159)"/>
+            <path id="Fill-200" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(78.004 109.159)"/>
+            <path id="Fill-202" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(93.424 109.159)"/>
+            <path id="Fill-204" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(0 125.468)"/>
+            <path id="Fill-206" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(15.419 125.468)"/>
+            <path id="Fill-208" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(30.839 125.468)"/>
+            <path id="Fill-210" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(47.165 125.468)"/>
+            <path id="Fill-212" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(62.585 125.468)"/>
+            <path id="Fill-214" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(78.004 125.468)"/>
+            <path id="Fill-216" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(93.424 125.468)"/>
+            <path id="Fill-218" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(0 140.872)"/>
+            <path id="Fill-220" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(15.419 140.872)"/>
+            <path id="Fill-222" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(30.839 140.872)"/>
+            <path id="Fill-224" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(47.165 140.872)"/>
+            <path id="Fill-226" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(62.585 140.872)"/>
+            <path id="Fill-228" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(78.004 140.872)"/>
+            <path id="Fill-230" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(93.424 140.872)"/>
+            <path id="Fill-232" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(0 156.276)"/>
+            <path id="Fill-234" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(15.419 156.276)"/>
+            <path id="Fill-236" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(30.839 156.276)"/>
+            <path id="Fill-238" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(47.165 156.276)"/>
+            <path id="Fill-240" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(62.585 156.276)"/>
+            <path id="Fill-242" d="M3.628,1.811A1.814,1.814,0,1,1,1.815,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(78.004 156.276)"/>
+            <path id="Fill-244" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(93.424 156.276)"/>
+            <path id="Fill-246" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(0 171.679)"/>
+            <path id="Fill-248" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(15.419 171.679)"/>
+            <path id="Fill-250" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(30.839 171.679)"/>
+            <path id="Fill-252" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(47.165 171.679)"/>
+            <path id="Fill-254" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(62.585 171.679)"/>
+            <path id="Fill-256" d="M3.628,1.812A1.814,1.814,0,1,1,1.815,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(78.004 171.679)"/>
+            <path id="Fill-258" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(93.424 171.679)"/>
+            <g id="Group-262" transform="translate(0 187.692)">
+              <path id="Fill-260" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-265" transform="translate(15.506 187.692)">
+              <path id="Fill-263" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-268" transform="translate(31.013 187.692)">
+              <path id="Fill-266" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-271" transform="translate(46.519 187.692)">
+              <path id="Fill-269" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-274" transform="translate(62.025 187.692)">
+              <path id="Fill-272" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-277" transform="translate(77.531 187.692)">
+              <path id="Fill-275" d="M3.924,1.961A1.962,1.962,0,1,1,1.963,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-280" transform="translate(93.944 187.692)">
+              <path id="Fill-278" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-281" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(108.843 109.159)"/>
+            <path id="Fill-283" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(125.17 109.159)"/>
+            <path id="Fill-285" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(140.589 109.159)"/>
+            <path id="Fill-287" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(156.009 109.159)"/>
+            <path id="Fill-289" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(171.428 109.159)"/>
+            <g id="Group-293" transform="translate(186.981 109.335)">
+              <path id="Fill-291" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.961,1.961,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-294" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(108.843 125.468)"/>
+            <path id="Fill-296" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(125.17 125.468)"/>
+            <path id="Fill-298" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(140.589 125.468)"/>
+            <path id="Fill-300" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(156.009 125.468)"/>
+            <path id="Fill-302" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(171.428 125.468)"/>
+            <g id="Group-306" transform="translate(186.981 124.825)">
+              <path id="Fill-304" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.961,1.961,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-307" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(108.843 140.872)"/>
+            <path id="Fill-309" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(125.17 140.872)"/>
+            <path id="Fill-311" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(140.589 140.872)"/>
+            <path id="Fill-313" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(156.009 140.872)"/>
+            <path id="Fill-315" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.812,1.812,0,0,1,3.628,1.812" transform="translate(171.428 140.872)"/>
+            <g id="Group-319" transform="translate(186.981 140.316)">
+              <path id="Fill-317" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.961,1.961,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-320" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(108.843 156.276)"/>
+            <path id="Fill-322" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(125.17 156.276)"/>
+            <path id="Fill-324" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(140.589 156.276)"/>
+            <path id="Fill-326" d="M3.628,1.811A1.814,1.814,0,1,1,1.813,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(156.009 156.276)"/>
+            <path id="Fill-328" d="M3.628,1.811A1.814,1.814,0,1,1,1.814,0,1.812,1.812,0,0,1,3.628,1.811" transform="translate(171.428 156.276)"/>
+            <g id="Group-332" transform="translate(186.981 155.806)">
+              <path id="Fill-330" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.961,1.961,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <path id="Fill-333" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(108.843 171.679)"/>
+            <path id="Fill-335" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(125.17 171.679)"/>
+            <path id="Fill-337" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(140.589 171.679)"/>
+            <path id="Fill-339" d="M3.628,1.812A1.814,1.814,0,1,1,1.813,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(156.009 171.679)"/>
+            <path id="Fill-341" d="M3.628,1.812A1.814,1.814,0,1,1,1.814,0,1.813,1.813,0,0,1,3.628,1.812" transform="translate(171.428 171.679)"/>
+            <g id="Group-345" transform="translate(186.981 172.202)">
+              <path id="Fill-343" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-348" transform="translate(109.45 187.692)">
+              <path id="Fill-346" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-351" transform="translate(124.956 187.692)">
+              <path id="Fill-349" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-354" transform="translate(140.463 187.692)">
+              <path id="Fill-352" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-357" transform="translate(155.969 187.692)">
+              <path id="Fill-355" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-360" transform="translate(171.473 187.692)">
+              <path id="Fill-358" d="M3.926,1.961A1.963,1.963,0,1,1,1.963,0,1.962,1.962,0,0,1,3.926,1.961" transform="translate(0 0)"/>
+            </g>
+            <g id="Group-363" transform="translate(186.981 187.692)">
+              <path id="Fill-361" d="M3.924,1.961A1.962,1.962,0,1,1,1.961,0,1.962,1.962,0,0,1,3.924,1.961" transform="translate(0 0)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
