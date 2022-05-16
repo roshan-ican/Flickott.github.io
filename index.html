@@ -11,13 +11,17 @@
       href="https://unpkg.com/flowbite@1.4.5/dist/flowbite.min.css"
     />
     <script src="https://unpkg.com/flowbite@1.4.5/dist/flowbite.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@400;600;700;800;900&family=Poppins:wght@500;700&display=swap" rel="stylesheet">
   </head>
+  
   <body
   >
   <!-- Navbar -->
 
     <nav
-  class="flex items-center justify-around shadow-lg w-full text-lg sm:text-xl text-gray-700"
+  class="flex flex-row items-center justify-around shadow-lg w-full text-lg text-gray-700"
 >
   <!-- Logo -->
   <div class="object-cover flex flex-start justify-center items-center justify-evenly ">
@@ -25,19 +29,19 @@
   </div>
   <!-- Menu Items -->
   <div class="hidden flex text-lg items-left justify-between  space-x-8 md:flex">
-    <a href="#" class="hover:text-purple">Pricing & Solutions</a>
+    <a href="#" class="hover:text-purple fontFamily">Pricing & Solutions</a>
     <a href="#" class="hover:text-purple">Use Cases</a>
     <a href="#" class="hover:text-purple">Resources</a>
   </div>
   <!-- Button -->
-  <div class="flex flex-row box-content sm:box-border justify-evenly items-right space-x-5 text-lg sm:text-sm sm:h-1/2">
+  <div class="flex flex-row box-content sm:box-border justify-evenly items-right space-x-5 text-sm sm:text-sm sm:h-1/2 max-w-sm">
     <a
-    href=""
+    href="#"
     class="p-2 text-white bg-purple-500 rounded baseline hover:bg-pink-500 md:block"
     >Request Demo</a
   >
   <a
-    href=""
+    href="#"
     class="p-2 text-white bg-pink-500 rounded baseline hover:bg-purple-500 md:block"
     >Contact Sales</a
   >
@@ -60,7 +64,7 @@
           <div class="container flex flex-col mb-32 space-y-12 md:w-1/2">
             <!-- Left Items -->
             <h1
-              class="max-w-md text-left text-4xl font-bold text-center md:text-5xl md:text-left text-purple-500"
+              class="max-w-md text-left text-4xl font-bold text-center md:text-5xl md:text-left text-purple-500 font-brand"
             >
               Your Next Big <br />OTT Platform <br />
               Starts Here
@@ -244,26 +248,26 @@
       class="container flex flex-row items-left justify-start space-evenly mx-10 object-cover
       bg-no-repeat bg-cover"
     >
-      <div class="container flex flex-col items-center justify-start mb-32 space-y-12 md:w-1/2">
+      <div class="container flex flex-col-reverse items-center justify-start mb-32 space-y-12 md:w-1/2 max-w-sm sm:justify-center">
         <!-- Left Items -->
         <div class="flex flex-col justify-start text-left space-y-10">
           <h1
-          class="max-w-md text-4xl font-bold  md:text-5xl md:text-left bg-text-purple"
+          class="max-w-sm text-5xl  sm:text-4xl md:text-left bg-text-purple"
         >
           Leading - Edge OTT Streaming Experience
         </h1>
         <p
-          class="max-w-sm justify-start text-left font-bold text-black-600 font-bold md:center "
+          class="max-w-sm justify-start text-center font-bold text-black-600 font-bold md:center sm:justify-center tracking-tight"
         >
           Give beautiful and compelling video & audio experiences to your
           Audience
         </p>
-        <p class="max-w-sm justify-start text-left text-center text-black-600 font-bold md:center">
+        <p class="max-w-sm justify-start text-left text-center text-black-600 font-semibold md:center sm:items-center">
           With the same level of quality no matter where they are and what
           screen they’re watching on
         </p>
          <!-- the buttons -->
-        <div class="flex space-x-8 justify-center md:justify-start">
+        <div class="flex space-x-8 justify-center md:justify-start sm:items-center">
           <a
          href=""
          class="p-2 pt-2 text-white bg-purple-500 rounded baseline hover:bg-pink-500 md:block"
@@ -275,8 +279,6 @@
          >Contact Sales</a
        >
        </div>
-
-
         </div>
        
       </div>
@@ -284,12 +286,12 @@
       
     </div>
     <!-- The Two Images -->
-    <div class="flex flex-row space-evenly mx-10 ">
+    <div class="flex flex-grow space-evenly mx-10 ">
       <div class="md:w-1/2 px-3 py-3 w-full h-full">
-        <img src="assets/vod-mobiletv.webp" alt="" />
+        <img class="object-fill" src="assets/vod-mobiletv.webp" alt="" />
       </div>
       <div class="md:w-1/2 px-3 py-3 w-full h-full">
-        <img src="assets/live-linear.webp" alt="" />
+        <img class="object-fill" src="assets/live-linear.webp" alt="" />
       </div>
     </div>
     <!-- The Accordian with images -->
@@ -323,7 +325,7 @@
     style="background-image:url('assets/monetize-bg.svg')"
     >
       <div
-      class="container flex flex-col-reverse flex-wrap items-center justify-center md:flex-row"
+      class="container flex flex-col-reverse flex-grow  items-center justify-between md:flex-row tracking-wide gap-4"
     >
       <div class="grid grid-cols-2 items-center justify-center flex-4 w-full h-full max-w-md scale-50">
         <!-- The First Icon -->
@@ -436,10 +438,10 @@
     </div>
     <!-- 2 rows for the images with hover effect -->
     <div
-      class="grid grid-cols-4 items-center justify-evenly gap-4 mt-5 mx-auto scale-75 relative text-white"
+      class="grid grid-cols-4 z-10 items-center justify-evenly gap-4 mt-5 mx-auto scale-75 relative text-white"
     >
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100 "
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100 "
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -455,7 +457,7 @@
       </div>
       <!-- Filmakers -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -471,7 +473,7 @@
       </div>
       <!-- sports -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -483,11 +485,11 @@
             hand-picked cinema
           </p>
         </a>
-        <img src="assets/sports.webp" alt="" />
+        <img class="sm:w-full" src="assets/sports.webp" alt="" />
       </div>
       <!-- education -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -503,7 +505,7 @@
       </div>
       <!-- youtubers -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -520,7 +522,7 @@
 
       <!-- Enterprise -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -536,7 +538,7 @@
       </div>
       <!-- Religious -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -552,7 +554,7 @@
       </div>
       <!-- Fitness -->
       <div
-        class="flex justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
+        class="flex flex-row justify-center rounded-lg hover:shadow-lg bg-white max-w-sm scale-y-100"
       >
         <a
           class="absolute inset-0 z-10 bg-transparent text-color-white text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300"
@@ -568,42 +570,41 @@
       </div>
     </div>
     <!-- Two card for CTA  -->
-    <div class="container mx-auto">
-      <div class="flex flex-wrap gap-x-5 justify-center items-center m-10 shadow-lg p-4">
+    <div class="container flex flex-start sm:flex-col-2 justify-center items-center p-8 gap-5 mb-5">
         <!-- Button 1 
           or card 1 -->
-        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white">
-          <img src="assets/sales-team-1.png" alt="">
-        <h2 class="text-2xl text-center tracking-tight font-bold">
-          Book Your Free Demo Today
-        </h2>
-        <p class="text-center font-medium">
+        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white space-y-10">
+          <img src="assets/sales-team-1.png" alt=""class="h-8 block">
+        <h6 class="font-bold text-3xl sm:text-sm  text-center tracking-tight">
+          Book Your Free
+          Demo Today
+        </h6>
+        <p class="text-center font-medium text-base tracking-widest">
           See how Flickott works through a 1-to-1 demo with our product experts.
         </p>
           <a
             href=""
-            class="p-3 px-3 pt-2 text-white bg-purple-500 baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+            class=" px-3 pt-2 text-white bg-purple-500  hover:bg-purple-100 inline-block py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out border-black-200"
             >Request Demo</a
           >
         </div>
           <!-- Button 2 -->
         <!-- Card 2 -->
-        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white">
-          <img src="assets/sales-team-2.png" alt="">
-          <h2 class="text-2xl  text-center tracking-tight font-bold">
+        <div class="border-2 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white space-y-10">
+          <img src="assets/sales-team-2.png" alt="" class="h-8 block">
+          <h6 class="font-bold text-3xl sm:text-sm  text-center tracking-tight">
             Let's Talk To Sales Team
-          </h2>
-          <p class="text-center font-medium text-base">
+          </h6>
+          <p class="text-center font-medium text-base tracking-widest">
             We’d love to answer your questions. Tell us your needs, and we’ll contact you shortly.
           </p>
           <a
             href=""
-            class="p-3 px-6 pt-2 text-white bg-pink-500 baseline hover:bg-purple-100 inline-block px-6 py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+            class=" px-3 pt-2 text-white bg-pink-500  hover:bg-purple-100 inline-block py-2.5 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
             >Contact Sales</a
           >
         </div>
   
-      </div>  
     </div>
   
     <!-- Footer -->
@@ -618,11 +619,11 @@
         >
         
           <!-- Logo -->
-          <div class="flex justify-center items-center justify-center space-x-2">
-            <img src="assets/logo fiickott.webp" class="h-15 items-left" alt="" />
+          <div class="flex justify-start items-center space-x-2">
+            <img src="assets/logo fiickott.webp" class="h-16 items-left justify-start" alt="" />
           </div>
           <!-- Social Links Container -->
-          <div class="flex justify-center items-center justify-center space-x-2">
+          <div class="flex flex-start items-left  justify-start space-x-2">
             <!-- Link 1 -->
             <a>
               <img src="assets/icon-facebook.svg" alt="" class="h-8" />
@@ -652,10 +653,9 @@
         <!-- List Container -->
         <div class="flex justify-center items-center space-x-32">
           <div class="flex flex-col space-y-3 text-white">
-            <a href="#" class="hover:text-brightRed">Home</a>
-            <a href="#" class="hover:text-brightRed">Pricing</a>
-            <a href="#" class="hover:text-brightRed">Products</a>
-            <a href="#" class="hover:text-brightRed">About</a>
+            <a href="#" class="hover:text-brightRed">Pricing & Solutions</a>
+            <a href="#" class="hover:text-brightRed">Use Cases</a>
+            <a href="#" class="hover:text-brightRed">Resources</a>
           </div>
           <div class="flex flex-col space-y-3 text-white">
             <a href="#" class="hover:text-brightRed">Carrers</a>
