@@ -8,7 +8,13 @@ module.exports = {
       lg: "976px",
       xl: "1440px",
     },
-    extend: {},
+
+    extend: {
+      colors: {
+        yellow: "rgba(235,237,62,.8)",
+        orange: "rgba(251,164,98,.9)",
+      },
+    },
   },
   plugins: [],
 };
