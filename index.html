@@ -21,14 +21,15 @@
   <!-- Navbar -->
 
     <nav
-  class="flex flex-row items-center justify-around shadow-lg w-full text-lg text-gray-700"
+  class="flex flex-row items-center justify-around shadow-lg max-w text-lg text-gray-700"
+  style="margin: 0 auto; max-width: 100%; display: flex; justify-content: center;"
 >
   <!-- Logo -->
   <div class="object-cover flex flex-start justify-center items-center ">
-    <img src="assets/logo fiickott.webp" alt="" class="h-16" />
+    <img style="" src="assets/logo fiickott.webp" alt="" class="h-16" />
   </div>
   <!-- Menu Items -->
-  <div class="hidden text-lg items-left justify-start space-x-8 md:flex">
+  <div class="hidden text-lg items-left justify-start space-x-8 md:flex" style="padding-left: 100px; padding-right: 600px;">
     <a href="#" class="hover:text-purple font-bold text-sm">Pricing & Solutions</a>
     <a href="#" class="hover:text-purple font-bold text-sm">Use Cases</a>
     <a href="#" class="hover:text-purple font-bold text-sm">Resources</a>
@@ -51,7 +52,7 @@
 </nav>
   
     <!-- Hero Image -->
-    <main class= "w-full h-full bg-no-repeat object-contain justify-start items-center bg-center" style="background-image: url(assets/banner-bg.png);">
+    <main class= "max-w bg-no-repeat object-cover justify-start items-center bg-cover" style="background-image: url(assets/banner-bg.png); max-width: 100%; max-height: 100%;">
       <!-- Navbar -->
      
       <!-- Hero Section-->
@@ -94,9 +95,11 @@
         
       </section >
       <!-- Brand Logos -->
-      <div class="w-full h-full object-cover justify-center items-center scale-90">
+      <div class="max-w justify-center items-center "
+      >
         <img 
           src="assets/logos.webp"
+          style="margin: 0 auto;"
           alt="Logos"
         />
       </div>
@@ -114,10 +117,11 @@
       </p>
     </div>
     <!-- features-->
-    <div class="bg-no-repeat w-full h-full object-cover scale-100 bg-left" style="background-image: url(assets/monetize-bg.svg);">
+    <div class="max-w bg-no-repeat object-cover justify-start items-center bg-cover" style="background-image: url(assets/monetize-bg.svg);">
       
       <div
-        class="grid md:grid-cols-3 grid-cols-1 gap-10 scale-50 relative justify-evenly"
+      class="container grid md:grid-cols-3 grid-cols-1 gap-1 scale-50 relative justify-center"
+        style="margin: 0 auto;"
       >
         <!-- Image 1 -->
         <div
@@ -135,7 +139,7 @@
               faster.
             </p>
           </a>
-          <img src="assets/rocket.png" alt="" />
+          <img src="assets/rocket.png" alt="" style="margin: 0 auto" />
         </div>
 
         <!-- Image 2 -->
@@ -154,7 +158,7 @@
               solution and creating an entirely best-fit for every customer.
             </p>
           </a>
-          <img src="assets/internet.png" alt="" />
+          <img src="assets/internet.png" alt="" style="margin: 0 auto"/>
         </div>
 
         <!-- Image 3 -->
@@ -173,7 +177,7 @@
               monetize their content smoothly.
             </p>
           </a>
-          <img src="assets/features.png" alt="" />
+          <img src="assets/features.png" alt="" style="margin: 0 auto"/>
         </div>
         <!-- Image 4 -->
         <div
@@ -191,7 +195,7 @@
               exponential growth.
             </p>
           </a>
-          <img src="assets/announcement.png" alt="" class="service" />
+          <img src="assets/announcement.png" alt="" style="margin: 0 auto" />
         </div>
         <!-- Image 5 -->
         <div
@@ -209,7 +213,7 @@
               business with VPlayed to the next level.
             </p>
           </a>
-          <img src="assets/technical-support.png" alt="" class="service" />
+          <img src="assets/technical-support.png" alt="" style="margin: 0 auto" />
         </div>
         <!-- Image 6 -->
 
@@ -227,7 +231,7 @@
               smooth to migrate your data with 99.9% uptime.
             </p>
           </a>
-          <img src="assets/migration.png" alt="" class="" />
+          <img src="assets/migration.png" alt="" style="margin: 0 auto" />
         </div>
       </div>
     </div>
@@ -245,7 +249,7 @@
     </div>
     <!-- The Image -->
     <div
-      style="background-image: url('assets/edge-ott.webp');"
+      style="background-image: url('assets/edge-ott.webp'); margin: 0 auto;"
       class="container flex flex-row items-left justify-start space-evenly mx-10 object-cover
       bg-no-repeat bg-cover"
     >
@@ -287,11 +291,11 @@
       
     </div>
     <!-- The Two Images -->
-    <div class="flex md:flex-nowrap flex-wrap  space-evenly mx-10 relative">
-      <div class="md:w-1/2 px-3 py-3 w-full h-full">
-        <div class="relative w-full h-full flex flex-wrap content-center py-3">
+    <div class="flex md:flex-nowrap flex-wrap space-evenly mx-5 relative" >
+      <div class="md:w-1/2 py-3 w-full h-full" style="display: flex; justify-content: flex-end; align-items:center; flex-direction: flex-end">
+        <div class="relative flex flex-wrap py-3">
           
-        <img class="mx-auto" src="assets/vod-mobiletv.webp" alt="" />
+        <img style="margin: 0 auto; display: flex; flex-direction: end" src="assets/vod-mobiletv.webp" alt="" />
         <div class="absolute inset-0 z-10 bg-yellow-400 text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-80 duration-300 overflow-hidden">
           <h4 class="mx-auto tracking-wide font-bold text-4xl">Video On Demand & Mobile TV</h4>
           <p class="text-black font-semibold">Say no to buffer with refined transcoding, Cloud backup and stream in UHD quality.</p>
@@ -301,10 +305,10 @@
         </div>
       </div>
       <!-- The second Image -->
-      <div class="md:w-1/2 px-3 py-3 w-full h-full">
-        <div class="relative w-full h-full flex flex-wrap content-center py-3">
+      <div class="md:w-1/2 px-3 py-3 w-full h-full" style="display: flex; justify-content: flex-start; align-items:center;">
+        <div class="relative flex flex-wrap py-3">
           
-        <img class="mx-auto" src="assets/live-linear.webp" alt="" />
+        <img style="margin: 0 auto; display: flex; flex-direction: start" src="assets/live-linear.webp" alt="" />
         <div class="absolute inset-0 z-10 bg-orange-400 text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300 overflow-hidden">
           <h4 class="mx-auto tracking-wide font-bold text-4xl">Live & Linear Streaming</h4>
           <p class="text-black font-semibold">Stay connected at any instant with your viewers. Live linear streaming lets you stream without any layoffs 24x7.</p>
@@ -341,10 +345,11 @@
       </p>
     </div>
     <!-- The icons -->
-    <div class="w-full h-full bg-no-repeat object-cover bg-left scale-100 mt-2"
+    <div class="max-w bg-no-repeat justify-start items-center bg-cover"
     style="background-image:url('assets/monetize-bg.svg')"
     >
       <div
+      style="margin: 0 auto;"
       class="container flex flex-col-reverse flex-grow space-x-10 items-center justify-between md:flex-row tracking-wide "
     >
       <div class="grid grid-cols-2 items-center justify-center  flex-4 w-full h-full max-w-md scale-50">
@@ -402,10 +407,11 @@
         We are excited to nurture your video business growth
       </p>
     </div>
+    
     <div
-      class="w-full h-full bg-no-repeat object-contain justify-center bg-center mt-5" style="background-image: url(assets/ring.png);"> 
+      class="max-w bg-no-repeat object-contain justify-center bg-center mt-5" style="background-image: url(assets/ring.png);"> 
       <!-- logo of LifePlay -->
-     <div class="grid grid-cols-4 ">
+     <div class="grid grid-cols-4 grid-rows-3 auto-rows-max gap-8 ">
       <div class="transform hover:bg-transparent transition duration-400 hover:scale-125">
         <img src="assets/lifeplay.svg" alt="">
       </div>
@@ -591,7 +597,7 @@
       </div>
     </div>
     <!-- Two card for CTA  -->
-    <div class="container flex md:flex-nowrap flex-wrap justify-center items-center p-8 gap-5 mb-5">
+    <div class="container flex md:flex-nowrap flex-wrap justify-center items-center p-8 gap-5 mb-5" style="margin: 0 auto;">
         <!-- Button 1 
           or card 1 -->
         <div class="border-2 pt-4 pb-4 border-gray-200 rounded-lg transform transition duration-500 hover:scale-110 shadow bg-white space-y-10">
